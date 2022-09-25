@@ -6,10 +6,9 @@ Clase Scanner y Math de JAVA para radio y área de un círculo
 
    📌 EJERCICIO 8, Hoja 2. 
    
-   🔴 Programa que pide por teclado el radio de un círculo, 
-      y visualiza luego su longitud y su área.
+   🔴 Programa que pide por teclado el radio de un círculo y visualiza su longitud y área.
       
-   🔴 Utiliza la clase scanner y Math y y los valores pueden contener decimales.
+   🔴 Utiliza la clase Scanner y Math y y los valores pueden contener decimales.
 
 ```
 
