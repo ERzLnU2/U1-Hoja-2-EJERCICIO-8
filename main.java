@@ -6,7 +6,6 @@
       y visualiza luego su longitud y su área.
       
    🔴 Utiliza la clase scanner y Math y y los valores pueden contener decimales.
-* 
 */
 package com.solomongo.ejercicio8_hoja2;
 import java.util.Scanner;
