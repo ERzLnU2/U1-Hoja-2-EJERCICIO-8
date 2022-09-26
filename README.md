@@ -12,4 +12,4 @@ Clase Scanner y Math de JAVA para radio y área de un círculo
 
 ```
 
-![EJERCICIO 8, Hoja 2](https://repository-images.githubusercontent.com/541332872/4f235b0c-1345-4057-bbb6-89310ecd36e3)
+![EJERCICIO 8 Hoja 2](https://repository-images.githubusercontent.com/541332872/5d867b5a-780c-4267-9425-c2aee0afc5b9)
